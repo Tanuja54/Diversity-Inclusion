@@ -29,9 +29,7 @@ Analyzed workforce diversity metrics to provide insights into hiring trends, pro
 Enabled HR and leadership teams to make data-driven decisions to promote inclusivity, reduce turnover, and address gender imbalances in leadership roles.
 
 ![image](https://github.com/user-attachments/assets/79397357-50ed-4124-bf42-a5600f6c1c04)
-
-
-
+***
 
 ![image](https://github.com/user-attachments/assets/95826afa-2350-4895-85e6-0412df40c0f7)
 
